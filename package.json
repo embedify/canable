@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/embedify/canable/issues"
   },
-  "homepage": "https://github.com/embedify/canable#readme"
+  "homepage": "https://github.com/embedify/canable#readme",
+  "dependencies": {
+    "serialport": "^7.1.5"
+  }
 }
