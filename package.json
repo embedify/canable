@@ -1,0 +1,23 @@
+{
+  "name": "canable",
+  "version": "1.0.0",
+  "description": "Library for interfacing with the CANable adapter over serial interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embedify/canable.git"
+  },
+  "keywords": [
+    "CAN",
+    "CANable"
+  ],
+  "author": "Embedify",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/embedify/canable/issues"
+  },
+  "homepage": "https://github.com/embedify/canable#readme"
+}
